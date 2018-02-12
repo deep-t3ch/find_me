@@ -1,6 +1,5 @@
 # shell_script find_me
 #to download run
-
 git clone https://github.com/deep-t3ch/shell_script
 
 #to installing run
