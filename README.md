@@ -3,8 +3,15 @@
 #to download run                             
 git clone https://github.com/deep-t3ch/find_me
 
+#change dir inside find_me 
+cd find_me
+#make it executable 
+sudo chmod 777 *
+
 #to installing run                
 bash install.sh --install
+
+
 
 #to remove run                         
 bash install.sh --remove
