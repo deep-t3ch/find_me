@@ -1,6 +1,6 @@
 # shell_script find_me
 #to download run
-git colon <repo URL>
+git clone https://github.com/deep-t3ch/shell_script
 
 #to installing run
 bash install.sh --install
